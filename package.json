@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-sms",
+  "name": "cordova-plugin-gm-sms",
   "version": "1.0.5",
   "description": "Cordova plugin to operate SMS, send/list/intercept/delete/restore",
   "cordova": {
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/floatinghotpot/cordova-plugin-sms.git"
+    "url": "https://github.com/SkogDev/cordova-plugin-sms.git"
   },
   "bugs": {
-    "url": "https://github.com/floatinghotpot/cordova-plugin-sms/issues"
+    "url": "https://github.com/SkogDev/cordova-plugin-sms.git/issues"
   },
   "keywords": [
     "cordova",
