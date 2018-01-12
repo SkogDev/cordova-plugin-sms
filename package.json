@@ -21,9 +21,5 @@
     "sms",
     "rjfun"
   ],
-  "author": {
-    "name": "Raymond Xie",
-    "email": "rjfun.mobile@gmail.com"
-  },
   "license": "MIT"
 }
